@@ -1,5 +1,6 @@
 # odin-recipes
 
-At this moment I'm going to do the first project on The Odin Project course.
+As of 20/01/2024, the "odin-recipes" WEB that I created following The Odin Project, currently has:
 
-The name of the project itself is "Project: Recipes". I assume it is going to be about recipes?
+    --> Main page + 3 subpages for 3 recipes.
+    --> Added CSS and styled the pages.
