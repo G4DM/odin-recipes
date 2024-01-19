@@ -1,0 +1,11 @@
+.listItem{
+    text-align: center;
+    list-style: none;
+    padding: 5px;
+}
+
+.listItem > a{
+    color: azure;
+    background-color: black;
+    border-radius:0.5ch;
+}

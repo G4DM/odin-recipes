@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.title {
+    text-align: center;
+}
+
+.image {
+    max-width: 350px;
+    max-height: auto;
+    border-radius: 2cap;
+    margin-left: 760px;
+}
+
+.ingredientsHeader {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ingredientsItems {
+    list-style: lower-greek;
+    font-style: oblique;
+}
