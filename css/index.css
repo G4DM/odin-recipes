@@ -7,5 +7,7 @@
 .listItem > a{
     color: azure;
     background-color: black;
-    border-radius:0.5ch;
+    padding: 4px;
+    border: 1px solid blue;
+    border-radius: 1ch;
 }
